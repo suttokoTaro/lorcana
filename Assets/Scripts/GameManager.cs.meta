@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fb727ed959d419c42b3cea0675ab68b9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyHandTransform: {instanceID: 0}
+  - playerHandTransform: {instanceID: 0}
+  - cardPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
